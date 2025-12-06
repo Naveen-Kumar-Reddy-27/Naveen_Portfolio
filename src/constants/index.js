@@ -144,28 +144,14 @@ const socials = [
     text: "Github",
     icon: "/icons/github.svg",
     bg: "#f4656b",
-    link: "https://github.com/JavaScript-Mastery-Pro",
+    link: "https://github.com/Naveen-Kumar-Reddy-27",
   },
   {
     id: 2,
-    text: "Platform",
-    icon: "/icons/atom.svg",
-    bg: "#4bcb63",
-    link: "https://jsmastery.com/",
-  },
-  {
-    id: 3,
-    text: "Twitter/X",
-    icon: "/icons/twitter.svg",
-    bg: "#ff866b",
-    link: "https://x.com/jsmasterypro",
-  },
-  {
-    id: 4,
     text: "LinkedIn",
     icon: "/icons/linkedin.svg",
     bg: "#05b6f6",
-    link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+    link: "https://www.linkedin.com/in/naveen-kumar-reddy-kotturu-3a81801aa",
   },
 ];
 
@@ -404,7 +390,7 @@ const ABOUT_LOCATION = {
   children: [
     {
       id: 1,
-      name: "me.png",
+      name: "grad.png",
       icon: "/images/image.png",
       kind: "file",
       fileType: "img",
@@ -422,7 +408,7 @@ const ABOUT_LOCATION = {
     },
     {
       id: 3,
-      name: "conference-me.png",
+      name: "me.png",
       icon: "/images/image.png",
       kind: "file",
       fileType: "img",
@@ -439,8 +425,8 @@ const ABOUT_LOCATION = {
       subtitle: "Meet the Developer Behind the Code",
       image: "/images/naveen.jpg",
       description: [
-        "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
-        "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
+        "Hey! I’m Naveen 👋, a Full Stack developer who enjoys building sleek, interactive websites that actually work well.",
+        "I specialize in JavaScript, React, Angular, Node.js, SpringBoot, Microservices, Cloud platforms- AWS, Azure and I love making things feel smooth, fast, and just a little bit delightful.",
         "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
         "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
       ],
