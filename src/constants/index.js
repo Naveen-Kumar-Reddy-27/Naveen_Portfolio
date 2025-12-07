@@ -190,14 +190,10 @@ const gallery = [
   },
   {
     id: 2,
-    img: "/images/gal2.png",
-  },
-  {
-    id: 3,
     img: "/images/gal3.jpg",
   },
   {
-    id: 4,
+    id: 3,
     img: "/images/gal4.jpg",
   },
 ];
@@ -428,7 +424,6 @@ const ABOUT_LOCATION = {
         "Hey! I’m Naveen 👋, a Full Stack developer who enjoys building sleek, interactive websites that actually work well.",
         "I specialize in JavaScript, React, Angular, Node.js, SpringBoot, Microservices, Cloud platforms- AWS, Azure and I love making things feel smooth, fast, and just a little bit delightful.",
         "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
-        "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
       ],
     },
   ],
